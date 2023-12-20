@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "titik_gasberacun",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "jenis_potensi": "Gas Beracun", "sumber": "PVMBG 2011", "keterangan": "-" }, "geometry": { "type": "Point", "coordinates": [ 109.914703285809082, -7.212855267410672 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "jenis_potensi": "Fumarola", "sumber": "PVMBG 2011", "keterangan": "Lubang di dalam kerak bumi yang terdapat di sekitar gunung berapi, umumnya mengeluarkan uap dan gas seperti Karbon Dioksida (CO2), Sulfur Dioksida (SO2), Asam Hidroklorik (HCl), dan Hidrogen Sulfida (H2S)" }, "geometry": { "type": "Point", "coordinates": [ 109.876671170822362, -7.229028166434692 ] } }
+]
+}

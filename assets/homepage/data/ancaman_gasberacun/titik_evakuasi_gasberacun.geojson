@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "titik_evakuasi_gasberacun",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "sumber": "PVMBG 2011", "keterangan": "Lokasi Pengungsian (Gas Beracun)" }, "geometry": { "type": "Point", "coordinates": [ 109.8685160560143, -7.234109215118428 ] } },
+{ "type": "Feature", "properties": { "id": 0, "sumber": "PVMBG 2011", "keterangan": "Lokasi Pengungsian (Gas Beracun)" }, "geometry": { "type": "Point", "coordinates": [ 109.915300225157267, -7.233609528307204 ] } },
+{ "type": "Feature", "properties": { "id": 0, "sumber": "PVMBG 2011", "keterangan": "Lokasi Pengungsian (Gas Beracun)" }, "geometry": { "type": "Point", "coordinates": [ 109.921551069219589, -7.207411662633012 ] } }
+]
+}
